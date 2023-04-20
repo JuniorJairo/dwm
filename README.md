@@ -8,7 +8,7 @@ dwm is an extremely fast, small, and dynamic window manager for X. This is my cu
 Requirements
 ------------
 In order to build dwm you need the Xlib header files.
-The default terminal in the "config.h" file is Alacritty, If you use another terminal you'll have to change it. 
+The default terminal in the "config.h" file is Alacritty, If you want to use a different terminal you'll have to change it. 
 
 
 Installation
