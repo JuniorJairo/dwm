@@ -50,3 +50,5 @@ Configuration
 -------------
 The configuration of dwm is done by creating a custom config.h
 and (re)compiling the source code./
+
+For more information access https://dwm.suckless.org/.
