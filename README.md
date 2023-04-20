@@ -1,6 +1,6 @@
 dwm - dynamic window manager
 ============================
-dwm is an extremely fast, small, and dynamic window manager for X. This is my custom version modified to my taste. I'll make it publicly available in case someone wants to use dwm but don't want to waste too many time customizing it, this person is me in the future hehe.
+dwm is an extremely fast, small, and dynamic window manager for X. This is my custom version modified to my taste. I'll make it publicly available in case someone wants to use dwm but don't want to waste too much time customizing it, this person is me in the future hehe.
 
 ![Alt text](https://i.imgur.com/k08lWoe.png "Dwm screenshot")
 
